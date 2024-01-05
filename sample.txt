@@ -1,2 +1,3 @@
 From
-master/Main branch
+branch1 
+i expect to create conflict scenerio.

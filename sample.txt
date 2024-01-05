@@ -1,2 +1,3 @@
 From
-master/Main branch
+branch2
+I also expecting same as branch1
